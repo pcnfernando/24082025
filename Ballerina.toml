@@ -1,0 +1,4 @@
+[package]
+org = "devantdemos"
+name = "hello_devant_demo"
+version = "1.0.0"
